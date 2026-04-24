@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    { "id": 1, "category": "Arquitectura" },
+    { "id": 2, "category": "Arte y cultura" },
+    { "id": 3, "category": "Autoayuda" },
+    { "id": 4, "category": "Biografías y memorias" },
+    { "id": 5, "category": "Ciencia" },
+    { "id": 6, "category": "Clásicos" }
+  ],
+  "libros": [
+    { "id": 1, "title": "Diccionario visual de términos Arquitectónicos", "category": "Arquitectura", "author": "Lorenzo de la Plaza Escudero", "price": 35.1, "year": 2012, "stock": 22, "imagen": "./img/diccionario_visual.jpg" },
+    { "id": 2, "title": "Catedral de escombros", "category": "Arquitectura", "author": "Pedro Torrijos", "price": 12.25, "year": 2025, "stock": 19, "imagen": "./img/catedral_escom.png" },
+    { "id": 3, "title": "Breve Historia del Arte", "category": "Arte y cultura", "author": "Susie Hodge", "price": 20.9, "year": 2025, "stock": 11, "imagen": "./img/breve_histo_arte.png" },
+    { "id": 4, "title": "The Story of Art", "category": "Arte y cultura", "author": "Ernst H. Gombrich", "price": 49.87, "year": 1995, "stock": 13, "imagen": "./img/histo_arte.png" },
+    { "id": 5, "title": "Los 7 Hábitos de la gente altamente efectiva", "category": "Autoayuda", "author": "Stephen R. Covey", "price": 22.9, "year": 1989, "stock": 15, "imagen": "./img/7_hab.png" },
+    { "id": 6, "title": "El poder del ahora", "category": "Autoayuda", "author": "Eckhart Tolle", "price": 19.5, "year": 1997, "stock": 12, "imagen": "./img/poder_ahora.png" },
+    { "id": 7, "title": "Steve Jobs", "category": "Biografías y memorias", "author": "Walter Isaacson", "price": 24.9, "year": 2011, "stock": 17, "imagen": "./img/steve_jobs.png" },
+    { "id": 8, "title": "Una educación", "category": "Biografías y memorias", "author": "Tara Westover", "price": 21.5, "year": 2018, "stock": 12, "imagen": "./img/una_educacion.png" },
+    { "id": 9, "title": "Breves respuestas a las grandes preguntas", "category": "Ciencia", "author": "Stephen Hawking", "price": 19.9, "year": 2018, "stock": 15, "imagen": "./img/resp_preg.png" },
+    { "id": 10, "title": "Sapiens: De animales a dioses", "category": "Ciencia", "author": "Yuval Noah Harari", "price": 21.9, "year": 2011, "stock": 18, "imagen": "./img/sapiens.png" },
+    { "id": 11, "title": "Don Quijote de la Mancha", "category": "Clásicos", "author": "Miguel de Cervantes", "price": 18.99, "year": 1605, "stock": 20, "imagen": "./img/don_quijote.png" },
+    { "id": 12, "title": "Matar a un ruiseñor", "category": "Clásicos", "author": "Harper Lee", "price": 16.95, "year": 1960, "stock": 14, "imagen": "./img/ruisenor.png" }
+  ]
+}
